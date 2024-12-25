@@ -25,6 +25,7 @@ JavaScript: Handles animations, interactivity, and orbital mechanics.
 ⚙️ How to Run
 
 Clone the repository:
+https://github.com/E-beep-web/solar-system.git
 
 Open index.html in your browser.
 
